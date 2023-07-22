@@ -14,5 +14,5 @@ db.on('error', console.error.bind(console, "Error connecting to MongoDB Atlas"))
 
 
 db.once('open', function () {
-     console.log('{har har Mahadev} Connected to Database :: MongoDB Atlas');
+     console.log('{Keep it up} Connected to Database :: MongoDB Atlas');
 });
