@@ -38,7 +38,7 @@ app.listen(port, function (err) {
         return;
     }
 
-    console.log("{Shree Ganeshay Namah} Server is up and running at port " + port);
+    console.log("{Kyaa Baat} Server is up and running at port " + port);
     return;
 });
 
